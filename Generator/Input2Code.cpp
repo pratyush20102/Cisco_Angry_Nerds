@@ -19,8 +19,6 @@ int main(){
         int u = rand()%maxi, v = rand()%maxi;
         int rule_rand = rand()%rule_max + 1;
         string u1 = to_string(u), v1 = to_string(v); 
-        if(u == 5511) u1 = "UNKNOWN";
-        if(v == 5511) v1 = "UNKNOWN";
         cout << "Cts role-based permissions from " << u1 << " to " << v1 << " rule_" << rule_rand << endl; 
     }
     return 0 ;
