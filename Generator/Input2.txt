@@ -2857,7 +2857,7 @@ Cts role-based permissions from 7008 to 13790 rule_158
 Cts role-based permissions from 5047 to 831 rule_87
 Cts role-based permissions from 31696 to 30906 rule_468
 Cts role-based permissions from 21814 to 6190 rule_468
-Cts role-based permissions from 15605 to 5511 rule_384
+Cts role-based permissions from 15605 to UNKNOWN rule_384
 Cts role-based permissions from 24653 to 1439 rule_327
 Cts role-based permissions from 31942 to 11929 rule_441
 Cts role-based permissions from 3527 to 28540 rule_387
@@ -7424,7 +7424,7 @@ Cts role-based permissions from 16972 to 2715 rule_164
 Cts role-based permissions from 6493 to 4623 rule_369
 Cts role-based permissions from 25036 to 32312 rule_402
 Cts role-based permissions from 17395 to 27905 rule_279
-Cts role-based permissions from 5511 to 28726 rule_322
+Cts role-based permissions from UNKNOWN to 28726 rule_322
 Cts role-based permissions from 16979 to 24716 rule_2
 Cts role-based permissions from 21791 to 20078 rule_41
 Cts role-based permissions from 11887 to 22226 rule_385
@@ -9082,7 +9082,7 @@ Cts role-based permissions from 28486 to 10096 rule_404
 Cts role-based permissions from 15912 to 1357 rule_478
 Cts role-based permissions from 11362 to 12834 rule_477
 Cts role-based permissions from 22003 to 3564 rule_376
-Cts role-based permissions from 5511 to 5106 rule_340
+Cts role-based permissions from UNKNOWN to 5106 rule_340
 Cts role-based permissions from 19157 to 14141 rule_487
 Cts role-based permissions from 9015 to 29737 rule_288
 Cts role-based permissions from 13525 to 23405 rule_143
