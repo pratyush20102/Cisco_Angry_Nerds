@@ -18,7 +18,6 @@ def solve():
     for i in range(500):
         print("Ip access-list role-based rule_" + str(i + 1) + "\n")
         value = randint(1, 20)
-        # print(str(value) + "\n")
         for j in range(value):
             print(str(j + 1) + " ")
             val = randint(0, 1)
