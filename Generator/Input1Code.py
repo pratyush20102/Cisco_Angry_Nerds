@@ -27,5 +27,5 @@ def solve():
             print(str(val2) + "\n")
  
 # Main 
-for _ in range(int(input())):
+for _ in range(1):
     solve()
