@@ -31,6 +31,6 @@
 
 ![Main Image Alt Text](Images/page7.jpg) 
 
-### Customised Heatmap with Annotations which depict the number of edges from GroupNumber
+### Customised Heatmap with Annotations which depict the Edges from GroupNumber
 
 ![Main Image Alt Text](Images/page8.jpg) 
