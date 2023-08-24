@@ -1,7 +1,7 @@
 # DataViz by Team Angry Nerds
 
 
-## Problem Statement, Tech Stack and Data Structures
+## Problem Statement
 
 ![Main Image Alt Text](Images/page1.jpg) 
 
